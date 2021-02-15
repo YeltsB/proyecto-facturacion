@@ -1,0 +1,9 @@
+Inventario/settings.py
+*.pyc
+*.png
+*.jpg
+*.jpeg
+db.sqlite3
+Inventario/__pycache__/*
+factora_app/__pycache__/*
+factora_app/migrations/__pycache__/*
